@@ -1,2 +1,2 @@
-# add-update-quicklinks-webpart
-Add/Update SharePoint modern quick links web part
+# add-update-modern-quicklinks-webpart
+Console application demonstrates how you can add/update modern web parts
